@@ -1,0 +1,4 @@
+[submodule "third_party/phxpaxos"]
+	path = third_party/phxpaxos
+	url = https://github.com/Tencent/phxpaxos
+	branch = v1.1.3
